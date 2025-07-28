@@ -65,11 +65,8 @@ I'm a passionate self-learner exploring the intersection of **Python, Web Develo
 
 ---
 
-## 🙋 Pronouns
 
-**She/Her**
 
----
 
 
 
